@@ -11,7 +11,7 @@ Innovative Projects: Dive into unique projects exploring the realms of computer 
 Install my-project with npm
 
 ```bash
-  git clone [my-project](https://github.com/Pronit21/OpenCV-Projects.git)
+  git clone "https://github.com/Pronit21/OpenCV-Projects.git"
   cd OpenCV-Projects
 ```
 Explore Projects: Navigate through the projects and run the scripts to experience computer vision in action.<br>
