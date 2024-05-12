@@ -6,11 +6,14 @@ This repository serves as a playground for exploring various computer vision con
 
 ### Features
 <p>Innovative Projects: Dive into unique projects exploring the realms of computer vision.<br>
-How to Use<br>
-Clone the Repository: Clone this repository to your local machine.<br>
+## Installation
+
+Install my-project with npm
+
 ```bash
-git clone https://github.com/Pronit21/OpenCV-Projects.git<br>
-```bash
+  git clone my-project
+  cd my-project
+```
 Explore Projects: Navigate through the projects and run the scripts to experience computer vision in action.<br>
 Rock, Paper, Scissors: Don't forget to try out the Rock, Paper, Scissors game for a dose of entertainment and to witness the practical applications of OpenCV in gaming!<br>
 </p>
