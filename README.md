@@ -11,8 +11,8 @@ Innovative Projects: Dive into unique projects exploring the realms of computer 
 Install my-project with npm
 
 ```bash
-  git clone my-project
-  cd my-project
+  git clone [my-project](https://github.com/Pronit21/OpenCV-Projects.git)
+  cd OpenCV-Projects
 ```
 Explore Projects: Navigate through the projects and run the scripts to experience computer vision in action.<br>
 Rock, Paper, Scissors: Don't forget to try out the Rock, Paper, Scissors game for a dose of entertainment and to witness the practical applications of OpenCV in gaming!<br>
